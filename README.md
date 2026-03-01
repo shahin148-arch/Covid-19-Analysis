@@ -36,7 +36,3 @@ The goal of this project is to:
 - **covid_19_india.csv**
 - **covid_data.csv**
 - **covid_vaccine_statewise.csv**
-
----
-
-## 📁 Project Structure
